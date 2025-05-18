@@ -1,11 +1,33 @@
 [
   {
+    "project_uid": "be_blurb_translation",
+    "name": "Belarusian blurb translation",
+    "root_path": "root/en/blurb",
+    "translation_path": "translation/be/blurb",
+    "translation_muids": "translation-be",
+    "creator_github_handle": [
+      "yukach"
+    ]
+  },
+  {
     "project_uid": "be_localization",
     "name": "Belarusian localization",
     "root_path": "root/en/site",
     "translation_path": "translation/be/site",
     "translation_muids": "translation-be-site",
-    "creator_github_handle": [ "yukach" ]
+    "creator_github_handle": [
+      "yukach"
+    ]
+  },
+  {
+    "project_uid": "be_names_translation",
+    "name": "Belarusian names translation",
+    "root_path": "root/misc/site",
+    "translation_path": "translation/be/site",
+    "translation_muids": "translation-be-site",
+    "creator_github_handle": [
+      "yukach"
+    ]
   },
   {
     "project_uid": "ca_ms_translation_bernatfontclos",
