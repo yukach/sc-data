@@ -228,6 +228,12 @@
     "iso_code": "ar"
   },
   {
+    "uid": "be",
+    "name": "Беларуская",
+    "is_root": false,
+    "iso_code": "be"
+  },
+  {
     "uid": "bn",
     "name": "বাংলা",
     "is_root": false,
